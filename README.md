@@ -26,5 +26,7 @@ Symbol page must be named "Symbols"
 ## Author
 
 Mike Mariano
+
 mike@uiuxartist.com
+
 http://uiuxartist.com
