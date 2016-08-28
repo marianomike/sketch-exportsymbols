@@ -1,0 +1,27 @@
+{
+  "author" : "Mike Mariano",
+  "commands" : [
+    {
+      "script" : "ExportSymbols.js",
+      "handler" : "onRun",
+      "shortcut" : "ctrl shift e",
+      "name" : "Export Symbols",
+      "identifier" : "export-symbols",
+    },
+  ],
+  "menu" : {
+    "title" : "Export Symbols",
+    "isRoot" : true,
+    "items" : [
+      "export-symbols",
+    ],
+  },
+  "identifier" : "com.marianomike.sketch-plugin",
+  "description": "Exports all or selected symbols as pngs to a specified folder.",
+  "authorEmail" : "mike@uiuxartist.com",
+  "name" : "Export Symbols",
+  "homepage": "http://uiuxartist.com",
+  "version": "1.0",
+  "compatibleVersion": 3.5,
+  "bundleVersion": 1
+}
